@@ -1,0 +1,7 @@
+{
+  "name": "AI Tutor for Student Profiling",
+  "description": "An adaptive AI-powered tutor that engages students aged 11-17 in insightful chat or voice sessions to build a comprehensive cognitive, personal, and career-oriented profile. The platform provides role-based access for students, parents, and school psychologists to support personalized educational journeys.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
